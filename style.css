@@ -1,0 +1,14 @@
+.movies_list {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.movie_card {
+    height: 50vh;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}

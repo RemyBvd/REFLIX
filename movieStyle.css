@@ -1,0 +1,12 @@
+.movie {
+    display: flex;
+    height: 50vh;
+    width: 70%;
+    align-items: center;
+}
+
+.movie_details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
